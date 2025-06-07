@@ -10,11 +10,11 @@ This project was developed for the **FNB Bank of the Future Challenge**, aiming 
 
 **Team Name: The Innovators**
 
-- **Nachalo** - Project Lead + Backend Dev
-- **Thabo** - Financial Analyst
-- **King** - Corporate Financial Analyst
-- **Phillip** - Frontend Developer (UI/UX)
-- **Laone** - Frontend Developer (UI/UX)
+- **Nachalo Letsunyane** - Project Lead + Backend Dev
+- **Thabo April** - Financial Analyst
+- **King Rantsetse** - Corporate Financial Analyst
+- **Olerile Phillip** - Frontend Developer (UI/UX)
+- **Okth Olweny** - Frontend Developer (UI/UX)
 
 This prototype represents the collective effort of our team to reimagine banking through innovative technology.
 
@@ -112,9 +112,24 @@ npm run dev
 ```
 
 ### Running the App
+
+#### Mobile Device/Simulator
 1. Open Expo Go on your mobile device
 2. Scan the QR code from the terminal
 3. Or press 'a' for Android simulator or 'i' for iOS simulator
+
+#### Web Browser
+1. Start the development server:
+   ```bash
+   npm run dev
+   ```
+2. Press 'w' in the terminal to open in web browser
+3. Alternatively, open http://localhost:19006 in your browser
+
+Note: For the best experience on web:
+- Use Chrome, Firefox, or Edge (latest versions)
+- Enable hardware acceleration in your browser
+- Keep the browser window at a reasonable size (recommended: 375px width for mobile view)
 
 ## Prototype Limitations
 
